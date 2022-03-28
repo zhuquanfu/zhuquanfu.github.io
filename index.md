@@ -19,3 +19,7 @@
       </div>
     </div>
   </div>
+
+<div class="ui icon button" data-content="The default theme's basic popup removes the pointing arrow." data-variation="basic">
+    <i class="add icon"></i>
+  </div>
